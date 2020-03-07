@@ -16,8 +16,9 @@ button {
     transition: all 0.3;
     --webkit-transition: all 0.3;
     --moz-transition: all 3.3s;
+    outline: none;
 }
-}
+
 
 button:hover {
     color: white;
